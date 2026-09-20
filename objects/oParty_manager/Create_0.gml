@@ -92,8 +92,8 @@ global.mhp=global.party_list.doli.mhp
 
 global.party_members=array_create(0) //Quem está na batalha
 array_push(global.party_members,global.party_list.doli)
-array_push(global.party_members,global.party_list.lamb)
-array_push(global.party_members,global.party_list.sn)
+//array_push(global.party_members,global.party_list.lamb)
+//array_push(global.party_members,global.party_list.sn)
 //array_push(oParty_manager.party_members,global.party_list.sophia)
 //array_push(oParty_manager.party_members,global.party_list.emma)
 global.party_length=array_length(global.party_members)

@@ -71,3 +71,5 @@ array_push(global.loja_estoque,global.charm_list.polimata_charm)
 array_push(global.loja_estoque,global.equip_list.esp_def)
 
 
+//Femboy cafe
+global.money=0

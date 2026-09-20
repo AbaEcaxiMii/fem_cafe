@@ -11,8 +11,8 @@
   "name":"osaveload",
   "overriddenProperties":[],
   "parent":{
-    "name":"save",
-    "path":"folders/Menus/save.yy",
+    "name":"Importante",
+    "path":"folders/Importante.yy",
   },
   "parentObjectId":null,
   "persistent":true,

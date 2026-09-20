@@ -42,6 +42,8 @@ if keyboard_check_pressed(vk_escape){
 game_end()
 }
 
+/*
+
 if keyboard_check_pressed(vk_numpad1){
 play_sfx(savepoint)
 save()
@@ -50,6 +52,7 @@ save()
 if keyboard_check_pressed(vk_numpad2){
 load()
 }
+*/
 
 if keyboard_check_pressed(vk_numpad4){
 instance_create_depth(x,y,depth,omenu_saves,{proposito_save_load: 0})

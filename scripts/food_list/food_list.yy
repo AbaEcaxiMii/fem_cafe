@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"food_list",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"food_list",
+  "parent":{
+    "name":"maid_cafe",
+    "path":"folders/maid_cafe.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
