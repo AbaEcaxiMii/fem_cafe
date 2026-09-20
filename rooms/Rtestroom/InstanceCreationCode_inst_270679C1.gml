@@ -1,0 +1,1 @@
+item=global.equip_list.esp_def

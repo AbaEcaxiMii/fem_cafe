@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"General",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"General",
+  "parent":{
+    "name":"crt_effect",
+    "path":"folders/crt_effect.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

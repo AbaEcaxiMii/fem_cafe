@@ -1,0 +1,1 @@
+if place_meeting(x,y,oheart){reach_light=1}

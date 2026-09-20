@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"menusEeffects",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"menusEeffects",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

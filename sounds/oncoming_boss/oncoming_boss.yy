@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"oncoming_boss",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":4.044966,
+  "exportDir":"",
+  "name":"oncoming_boss",
+  "parent":{
+    "name":"sfx",
+    "path":"folders/Sons/sfx.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"oncoming_boss.mp3",
+  "volume":0.5,
+}

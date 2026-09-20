@@ -1,0 +1,1 @@
+if !skip_roomsave{save_room()} skip_roomsave=0

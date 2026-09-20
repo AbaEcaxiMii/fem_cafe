@@ -1,0 +1,3 @@
+instance_destroy(oheart)
+instance_destroy(obox_battle)
+instance_destroy(obox_light_goal)

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Shop_theme",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":50.26898,
+  "exportDir":"",
+  "name":"Shop_theme",
+  "parent":{
+    "name":"undertalelike",
+    "path":"folders/Sons/music/undertalelike.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Shop_theme.mp3",
+  "volume":1.0,
+}

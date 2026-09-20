@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"A_Home_For_Flowers_Sunflower",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":9,
+  "conversionMode":0,
+  "duration":85.008255,
+  "exportDir":"",
+  "name":"A_Home_For_Flowers_Sunflower",
+  "parent":{
+    "name":"outros",
+    "path":"folders/Sons/music/outros.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"A_Home_For_Flowers_Sunflower.mp3",
+  "volume":1.0,
+}

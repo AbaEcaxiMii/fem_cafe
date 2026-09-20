@@ -1,0 +1,4 @@
+move_spd=4
+mouse_can_move=1
+cooldown_after_free_move_ini=10
+cooldown_after_free_move=cooldown_after_free_move_ini

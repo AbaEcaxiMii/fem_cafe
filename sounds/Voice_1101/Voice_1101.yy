@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Voice_1101",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.56,
+  "exportDir":"",
+  "name":"Voice_1101",
+  "parent":{
+    "name":"sfx",
+    "path":"folders/Sons/sfx.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Voice_1101.mp3",
+  "volume":1.0,
+}

@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"SHD_CRT",
+  "name":"SHD_CRT",
+  "parent":{
+    "name":"crt_effect",
+    "path":"folders/crt_effect.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

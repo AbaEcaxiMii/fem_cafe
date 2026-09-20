@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Conrad_eh2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.47326532,
+  "exportDir":"",
+  "name":"Conrad_eh2",
+  "parent":{
+    "name":"sfx",
+    "path":"folders/Sons/sfx.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Conrad_eh2.wav",
+  "volume":1.0,
+}

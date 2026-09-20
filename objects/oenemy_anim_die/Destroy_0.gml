@@ -1,0 +1,1 @@
+if automatic_soul_animation{instance_create_depth(x,y,depth-10,osoul_show)}

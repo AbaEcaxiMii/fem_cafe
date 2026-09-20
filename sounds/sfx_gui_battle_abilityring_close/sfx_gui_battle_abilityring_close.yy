@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sfx_gui_battle_abilityring_close",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.36034015,
+  "exportDir":"",
+  "name":"sfx_gui_battle_abilityring_close",
+  "parent":{
+    "name":"exp sfx",
+    "path":"folders/Sons/sfx/exp sfx.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_gui_battle_abilityring_close.wav",
+  "volume":1.0,
+}

@@ -1,0 +1,9 @@
+grv=0.08
+gravity=grv
+direction=random_range(55,85) //75 105 //55 85
+speed=2
+mode=0
+//mode=0 //vai até o ystart (Normal)
+//mode=1 //vai até o baixo da tela
+//mode=2 //vai até em cima da tela
+//mode=3 //só vai pra cima e pra baixo

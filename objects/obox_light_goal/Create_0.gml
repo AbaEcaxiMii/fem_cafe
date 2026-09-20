@@ -1,0 +1,1 @@
+reach_light=0

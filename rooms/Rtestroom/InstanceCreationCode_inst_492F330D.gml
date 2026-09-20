@@ -1,0 +1,1 @@
+item=global.equip_list.main_nada

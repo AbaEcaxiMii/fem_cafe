@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"_12am",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":38.730885,
+  "exportDir":"",
+  "name":"_12am",
+  "parent":{
+    "name":"deltarune",
+    "path":"folders/Sons/music/deltarune.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"_12am.mp3",
+  "volume":1.0,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Let_s_Get_Together_Now",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":9,
+  "conversionMode":0,
+  "duration":61.702675,
+  "exportDir":"",
+  "name":"Let_s_Get_Together_Now",
+  "parent":{
+    "name":"outros",
+    "path":"folders/Sons/music/outros.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Let_s_Get_Together_Now.mp3",
+  "volume":1.0,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Rude_Buster__Band_Arrange",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":-1.0,
+  "exportDir":"",
+  "name":"Rude_Buster__Band_Arrange",
+  "parent":{
+    "name":"deltarune",
+    "path":"folders/Sons/music/deltarune.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Rude_Buster__Band_Arrange.mp3",
+  "volume":0.6,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Quiet_Water",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":3,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":32.07839,
+  "exportDir":"",
+  "name":"Quiet_Water",
+  "parent":{
+    "name":"undertalelike",
+    "path":"folders/Sons/music/undertalelike.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Quiet_Water.mp3",
+  "volume":0.5,
+}
